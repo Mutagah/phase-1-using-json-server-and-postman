@@ -1,0 +1,28 @@
+{
+  "friendsProfession": [
+    {
+      "id": 1,
+      "name": "Mwasaha",
+      "profession": "software development",
+      "hobby": "watching movies"
+    },
+    {
+      "name": "Wamburu",
+      "profession": "soldier",
+      "hobby": "playing video games",
+      "id": 2
+    },
+    {
+      "name": "Dennis",
+      "profession": "statician",
+      "hobby": "listening to music",
+      "id": 3
+    },
+    {
+      "name": "Mwadime",
+      "profession": "Finance manager",
+      "hobby": "skating",
+      "id": 4
+    }
+  ]
+}
